@@ -169,7 +169,6 @@ main {
     position: relative;
     overflow: hidden;
 }
-
 .progress::after{
     content: "";
     width: 100%;
