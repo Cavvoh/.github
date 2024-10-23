@@ -1,4 +1,10 @@
-body {
-    font-family: 'Segoe UI';
-    text-align: center;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    background: linear-gradient(to right top, #ec7c26, #7b1fa2);
 }
