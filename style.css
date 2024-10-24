@@ -161,6 +161,12 @@ main {
     justify-content: space-between;
 }
 
+.card:hover{
+    transform: scale(1.02);
+    transition: .3s ease-in-out;
+    cursor: pointer;
+}
+
 .progress {
     background: linear-gradient(to right top, #ec7c26, #7b1fa2);
     width: 100%;
